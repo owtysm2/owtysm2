@@ -13,6 +13,3 @@ In the future, I may explore C++, Rust or Java further.
 Repository: [owtysm2/CuoreUI <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29c707b9-0fbd-4d00-a583-68f8acf03306" />](https://github.com/owtysm2/CuoreUI)<br>
 ![NuGet logo](https://i.imgur.com/6aPyVAg.png)
 NuGet: [CuoreUI.Winforms <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/29c707b9-0fbd-4d00-a583-68f8acf03306" />](https://www.nuget.org/packages/CuoreUI.Winforms/)
-
-> [!IMPORTANT]
->  We used to have 45+ stars in our prime, **star if it's helpful**!!
